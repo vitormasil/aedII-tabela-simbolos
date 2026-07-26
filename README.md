@@ -23,7 +23,7 @@ O estudo de caso utiliza dados reais e massivos do catálogo de filmes do **IMDb
 
 As métricas analisadas incluem tempo de execução de operações com e sem sucesso, consumo de memória estimado, garantia estrutural (alturas e rotações) e fator de carga.
 
-## 🗂 Estrutura do Repositório
+## Estrutura do Repositório
 
 - `tabela_simbolos.h`: Interface do TAD Tabela de Símbolos.
 - `tabela_hash.c` / `.h`: Implementação da Tabela Hash com tratamento de colisões por encadeamento exterior (função `djb2`).
